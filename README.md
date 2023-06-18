@@ -14,3 +14,5 @@ Format :- [firstname-lastname](linkedin profile link)
 
 ## Execom Team
 [Aditya Dighe](https://www.linkedin.com/in/aditya-dighe/ "Open Linkedin" ) Technical
+
+[Soham S. Nimale](https://www.linkedin.com/in/soham-nimale-500692257/ "Open Linkedin" ) Technical
