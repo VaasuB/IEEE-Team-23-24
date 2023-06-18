@@ -22,3 +22,5 @@ Format :- [firstname-lastname](linkedin profile link)
 [Aditya Dighe](https://www.linkedin.com/in/aditya-dighe/ "Open Linkedin" ) Technical
 
 [Soham S. Nimale](https://www.linkedin.com/in/soham-nimale-500692257/ "Open Linkedin" ) Technical
+
+[Ishita Jasuja](https://www.linkedin.com/in/ishita-jasuja-52286b257/ "Open Linkedin" ) Technical 
