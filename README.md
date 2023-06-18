@@ -18,6 +18,8 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Pranav Joshi](https://www.linkedin.com/in/pranav-joshi-168298231/) Research Head 23-24
 
+[Tushar Nasery](https://www.linkedin.com/in/tushar-nasery/) Chairperson 23-24
+
 ## Execom Team
 [Aditya Dighe](https://www.linkedin.com/in/aditya-dighe/ "Open Linkedin" ) Technical
 
