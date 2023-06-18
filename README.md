@@ -25,7 +25,10 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Soham S. Nimale](https://www.linkedin.com/in/soham-nimale-500692257/ "Open Linkedin" ) Technical
 
+[Ishita Jasuja](https://www.linkedin.com/in/ishita-jasuja-52286b257/ "Open Linkedin" ) Technical 
+
 [Shruti Sood](https://www.linkedin.com/in/shruti-sood-306b6a258/ "Open Linkedin") Graphic Design
 
 [Harshwardhan Patil](https://www.linkedin.com/in/harshwardhan-patil-b95ab0241/ "Open Linkedin" ) Finance
+
 
