@@ -16,6 +16,8 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Mrunmayee Phadke](https://www.linkedin.com/in/mrunmayee-phadke-635060241/) Project Head 23-24
 
+[Pranav Joshi](https://www.linkedin.com/in/pranav-joshi-168298231/) Research Head 23-24
+
 ## Execom Team
 [Aditya Dighe](https://www.linkedin.com/in/aditya-dighe/ "Open Linkedin" ) Technical
 
