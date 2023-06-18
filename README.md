@@ -12,6 +12,8 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Sahil Patil](https://www.linkedin.com/in/sahil-patil-/) Coding Club Head 23-24
 
+[Mahi Chrungoo](https://www.linkedin.com/in/mahi-chrungoo/) Vice-Chairperson 23-24
+
 ## Execom Team
 [Aditya Dighe](https://www.linkedin.com/in/aditya-dighe/ "Open Linkedin" ) Technical
 
