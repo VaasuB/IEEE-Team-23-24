@@ -8,6 +8,8 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Samarth Thosar](https://www.linkedin.com/in/samarth-thosar/ "Open linkedin") Project Head 23-24
 
+[Om Khode](https://www.linkedin.com/in/om-khode/) Project Head 23-24
+
 [Sahil Patil](https://www.linkedin.com/in/sahil-patil-/) Coding Club Head 23-24
 
 ## Execom Team
