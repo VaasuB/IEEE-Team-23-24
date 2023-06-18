@@ -23,4 +23,4 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Soham S. Nimale](https://www.linkedin.com/in/soham-nimale-500692257/ "Open Linkedin" ) Technical
 
-[Harshwradhan Patil](https://www.linkedin.com/in/harshwardhan-patil-b95ab0241/ "Open Linkedin" ) Finance
+[Harshwardhan Patil](https://www.linkedin.com/in/harshwardhan-patil-b95ab0241/ "Open Linkedin" ) Finance
