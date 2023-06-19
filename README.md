@@ -50,4 +50,6 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Aryan Mundra](https://www.linkedin.com/in/aryan-mundra-512b64218/ "Open Linkedin") Content
 
+[Arya Alurkar](https://www.linkedin.com/in/arya-alurkar-b60a8827b/ "Open LinkedIn") Technical
+
 [Saish Rathod](https://www.linkedin.com/in/saish-rathod-18a4b3260/ "Open Linkedin") Technical
