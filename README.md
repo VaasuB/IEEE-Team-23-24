@@ -49,3 +49,5 @@ Format :- [firstname-lastname](linkedin profile link)
 [Dilpreet Sahney](https://www.linkedin.com/in/dilpreet-singh-sahney-302094250/ "Open Linkedin") Technical
 
 [Aryan Mundra](https://www.linkedin.com/in/aryan-mundra-512b64218/ "Open Linkedin") Content
+
+[Saif Khan](https://www.linkedin.com/in/saif-khan-31602b276/ "Open Linkedin") Management
