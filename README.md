@@ -38,6 +38,8 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Ishita Jasuja](https://www.linkedin.com/in/ishita-jasuja-52286b257/ "Open Linkedin") Technical
 
+[Aniketh Pala](https://www.linkedin.com/in/aniketh-pala-415290257/ "Open Linkedin") Technical
+
 [Shruti Sood](https://www.linkedin.com/in/shruti-sood-306b6a258/ "Open Linkedin") Graphic Design
 
 [Harshwardhan Patil](https://www.linkedin.com/in/harshwardhan-patil-b95ab0241/ "Open Linkedin") Finance
