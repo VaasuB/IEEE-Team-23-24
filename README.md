@@ -30,6 +30,8 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Tejas Bharambe](https://www.linkedin.com/in/tejas-bharambe-8b0512230/ "Open LinkedIn") PR Head 23-24
 
+[Aneesh Pathak](https://www.linkedin.com/in/aneesh-pathak-a799bb22b/ "Open LinkedIn") Management Head 23-24
+
 ## Execom Team
 
 [Aditya Dighe](https://www.linkedin.com/in/aditya-dighe/ "Open Linkedin") Technical
