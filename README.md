@@ -47,3 +47,5 @@ Format :- [firstname-lastname](linkedin profile link)
 [Harshwardhan Patil](https://www.linkedin.com/in/harshwardhan-patil-b95ab0241/ "Open Linkedin") Finance
 
 [Dilpreet Sahney](https://www.linkedin.com/in/dilpreet-singh-sahney-302094250/ "Open Linkedin") Technical
+
+[Aryan Mundra](https://www.linkedin.com/in/aryan-mundra-512b64218/ "Open Linkedin") Content
