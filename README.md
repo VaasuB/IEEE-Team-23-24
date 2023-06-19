@@ -43,3 +43,5 @@ Format :- [firstname-lastname](linkedin profile link)
 [Shruti Sood](https://www.linkedin.com/in/shruti-sood-306b6a258/ "Open Linkedin") Graphic Design
 
 [Harshwardhan Patil](https://www.linkedin.com/in/harshwardhan-patil-b95ab0241/ "Open Linkedin") Finance
+
+[Dilpreet Sahney](https://www.linkedin.com/in/dilpreet-singh-sahney-302094250/ "Open Linkedin") Technical
