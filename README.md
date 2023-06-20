@@ -56,3 +56,4 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Saish Rathod](https://www.linkedin.com/in/saish-rathod-18a4b3260/ "Open Linkedin") Technical
 
+[Rijul Sidanale](https://www.linkedin.com/in/rijul-sidanale-81955024b/ "Open Linkedin") Technical 
