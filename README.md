@@ -56,4 +56,7 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Saish Rathod](https://www.linkedin.com/in/saish-rathod-18a4b3260/ "Open Linkedin") Technical
 
+[Harsh Mahale](https://www.linkedin.com/in/harsh-mahale-858b2725b/ "Open Linkedin")  Management
+
 [Somrath Bisen](https://www.linkedin.com/in/somrath-bisen-5549441aa/ "Open LinkedIn"). PR
+
