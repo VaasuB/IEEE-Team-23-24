@@ -56,8 +56,11 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Saish Rathod](https://www.linkedin.com/in/saish-rathod-18a4b3260/ "Open Linkedin") Technical
 
-[Sneha Jain] (https://www.linkedin.com/in/sneha-jain-473357261/ "Open Linkedin") Content
+[Rijul Sidanale](https://www.linkedin.com/in/rijul-sidanale-81955024b/ "Open Linkedin") Technical 
+
+[Sneha Jain](https://www.linkedin.com/in/sneha-jain-473357261/ "Open Linkedin") Content
 
 [Harsh Mahale](https://www.linkedin.com/in/harsh-mahale-858b2725b/ "Open Linkedin")  Management
 
 [Somrath Bisen](https://www.linkedin.com/in/somrath-bisen-5549441aa/ "Open LinkedIn"). PR
+
