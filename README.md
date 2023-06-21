@@ -56,3 +56,4 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Saish Rathod](https://www.linkedin.com/in/saish-rathod-18a4b3260/ "Open Linkedin") Technical
 
+[Somrath Bisen](https://www.linkedin.com/in/somrath-bisen-5549441aa/ "Open LinkedIn"). PR
