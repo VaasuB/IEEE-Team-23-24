@@ -50,6 +50,8 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Aryan Mundra](https://www.linkedin.com/in/aryan-mundra-512b64218/ "Open Linkedin") Content
 
+[Saif Khan](https://www.linkedin.com/in/saif-khan-31602b276/ "Open Linkedin") Management
+
 [Vaishnavi Singh](https://www.linkedin.com/in/vaishnavi-singh-bb2503253/ "Open Linkedin")Graphic Design
 
 [Arya Alurkar](https://www.linkedin.com/in/arya-alurkar-b60a8827b/ "Open LinkedIn") Technical
